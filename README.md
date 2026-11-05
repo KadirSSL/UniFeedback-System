@@ -12,7 +12,7 @@ UniFeedback-System
 <br>
 
 <details>
-<summary><b> İletişim Yapısı</b></summary>
+<summary><b> Üniversite Hiyerarşik Yapısı - Temsili </b></summary>
  <br>
 
 <img width="1032" height="698" alt="image" src="https://github.com/user-attachments/assets/09f81f53-06ed-40d7-93a5-6e0e7a611abc" />
